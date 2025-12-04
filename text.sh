@@ -1,2 +1,1 @@
-pkg ugrade
-
+pkg install vim
