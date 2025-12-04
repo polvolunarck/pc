@@ -1,1 +1,2 @@
-tegsgd
+pkg ugrade
+
